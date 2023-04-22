@@ -6,7 +6,7 @@
 This work was developed as assignment for Analysis & Design of Algorithms Course at Indian Institute of Information 
 Technology Prayagraj during my M.Tech first semester.
 
-We use **Huffman's algorithm** to construct **a tree** that is used for data compression. 
+We (My project partner were Aman Kumar & Shubham Sahu) use **Huffman's algorithm** to construct **a tree** that is used for data compression. 
 We assume that each character has an associated weight equal to the number of times the character occurs in a file,
 When compressing a file we'll need to calculate these weights.
 
