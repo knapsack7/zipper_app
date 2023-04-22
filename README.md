@@ -1,9 +1,10 @@
-<h1 align='center'> Huffman Zipper</h1>
+<h1 align='center'> Zipper App</h1>
 <h3 align='center'> Yet another file compressor/decompressor, using a C++ huffman-coding algorithm implementation.</h3>
 <img center='align' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1550/https://itpack.be/wp-content/uploads/2019/06/Naamloos.png'/>
 
 
-This team (me and [@oswidan97](https://github.com/oswidan97)) work was developed as assignment for Analysis & Design of Algorithms Course Fall 2018 offering at CCE department, Faculty of Engineering, Alexandria University
+This work was developed as assignment for Analysis & Design of Algorithms Course at Indian Institute of Information 
+Technology Prayagraj during my M.Tech first semester.
 
 We use **Huffman's algorithm** to construct **a tree** that is used for data compression. 
 We assume that each character has an associated weight equal to the number of times the character occurs in a file,
