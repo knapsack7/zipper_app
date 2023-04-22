@@ -3,10 +3,10 @@
 <img center='align' src='https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1550/https://itpack.be/wp-content/uploads/2019/06/Naamloos.png'/>
 
 
-This work was developed as assignment for Analysis & Design of Algorithms Course at Indian Institute of Information 
-Technology Prayagraj during my M.Tech first semester.
+This work was developed as an fun activity bz I always like the Huffman algorithm since I was introduced
+with this in my Data Structure And Algorithm majors. 
 
-We (My project partner were Aman Kumar & Shubham Sahu) use **Huffman's algorithm** to construct **a tree** that is used for data compression. 
+I use **Huffman's algorithm** to construct **a tree** that is used for data compression. 
 We assume that each character has an associated weight equal to the number of times the character occurs in a file,
 When compressing a file we'll need to calculate these weights.
 
